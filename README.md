@@ -17,7 +17,7 @@ To add execution permissions, just run this command:
 
 <b style="font-family: Courier, monospace;">chmod +111 Deb-Installer.jar</b>
 
-If you repeat the list (<b>ls -l</b>)command, now your Deb-Installer should look like this:
+If you repeat the list (<b>ls -l</b>) command, now your Deb-Installer should look like this:
 
 <b style="font-family: Courier, monospace;">-rwxrwxr-x 1 your_user your_user    3813 ene 18 17:19 Deb-Installer.jar</b>
 
