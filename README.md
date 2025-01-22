@@ -5,7 +5,7 @@ This program was designed because Ubuntu changed its installation system to snap
 
 <h2>Simple download (.jar)</h2>
 
-Just download the .jar file <b>Deb-Installer.jar</b>, and move it to a directory easy to remember (example, Desktop or Documents). Now, you could have permissions issues with the jar: open a terminal (right-click) in the directory where you saved the .jar, and type the following command:
+Just download the .jar file <b>Deb-Installer.jar</b>, and move it to a directory easy to remember (example, Desktop or Documents). Now, you could have permission issues with the jar: open a terminal (right-click) in the directory where you saved the .jar, and type the following command:
 
 <b style="font-family: Courier, monospace;">ls -l | grep Deb-Installer.jar</b>
 
